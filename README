@@ -1,0 +1,45 @@
+
+
+			LAB 3 README 
+
+
+side note input-4.txt is the correct filename while the rest follow the 0 before digit 
+format
+ 
+
+1. g++ Linker.cpp classes.cpp -o Linker 
+
+	  Non Detailed Output 		Detailed Output 
+2. 	
+	./Linker input-01.txt		./Linker --verbose input-01.txt 
+
+   	./Linker input-02.txt 		./Linker --verbose input-02.txt
+
+   	./Linker input-03.txt		./Linker --verbose input-03.txt
+
+   	./Linker input-4.txt 		./Linker --verbose input-4.txt
+
+   	./Linker input-05.txt		./Linker --verbose input-05.txt
+
+   	./Linker input-06.txt 		./Linker --verbose input-06.txt 
+
+   	./Linker input-07.txt		./Linker --verbose input-07.txt
+
+	./Linker input-08.txt		./Linker --verbose input-08.txt 
+	
+	./Linker input-09.txt		./Linker --verbose input-09.txt
+
+	./Linker input-10.txt		./Linker --verbose input-10.txt
+
+	./Linker input-11.txt		./Linker --verbose input-11.txt
+
+	./Linker input-12.txt		./Linker --verbose input-12.txt
+
+	./Linker input-13.txt		./Linker --verbose input-13.txt 
+
+
+3. Change Directory: cd/Desktop/oslab3goelankit
+
+
+	
+	
